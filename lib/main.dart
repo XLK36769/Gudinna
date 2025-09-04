@@ -70,7 +70,7 @@ class _DailyChecklistState extends State<DailyChecklist> {
     return Scaffold(
       backgroundColor: Colors.pink[50],
       appBar: AppBar(
-        title: Text("Uppgifter för min älskling", style: TextStyle(fontFamily: 'Cursive', fontSize: 24)),
+        title: Text("Uppgifter för min älskling - grattis på födelsedagen", style: TextStyle(fontFamily: 'Cursive', fontSize: 24)),
         backgroundColor: Colors.pink,
       ),
       body: SingleChildScrollView(
