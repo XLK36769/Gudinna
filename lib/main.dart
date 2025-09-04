@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(primarySwatch: Colors.pink),
       home: DailyChecklist(),
-      title: "Amore", // <-- App name changed here to something romantic
+      title: "Happy Birthday!", // <-- App name changed here to something romantic
     );
   }
 }
